@@ -28,6 +28,7 @@ Reimplemented features include:
   - Carnage Reports
   - User Data
   - Population Statistics & Map
+The API includes OpenAPI documentation via Swagger which can be viewed by simply launching the server and navigating to /api.
 
 # Blam-Title-Storage
 Halo 3 & Reach matchmaking requires a lot of BLF configuration files including data like what matchmaking playlists are available, which gametypes do they include, the gametypes themselves etc. In addition, there's configuration for features like the message of the day, messages that appear should a user be banned, etc. There are many binary files to manage and many require hashes. We use **blf_cli** to build these configuration files from easier to read JSON, CSV or plain-text files, which are held in this repository.

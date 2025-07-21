@@ -28,6 +28,7 @@ Reimplemented features include:
   - Carnage Reports
   - User Data
   - Population Statistics & Map
+
 The API includes OpenAPI documentation via Swagger which can be viewed by simply launching the server and navigating to /api.
 
 # Blam-Title-Storage

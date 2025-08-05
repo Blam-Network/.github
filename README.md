@@ -15,9 +15,7 @@ The blf_private repository consists of the following projects:
 - blf_lib-private
   - Similar to blf_lib but with data structures relating to player statistics (eg. postgame stats).
 - blf_lsp
-  - Holds BLF oprations which are used by the **web_private** NodeJS web server.
-- blf_lsp-npm
-  - Configuration for building blf_lsp as a Node Native-API (NAPI) NPM package via [napi-rs](https://github.com/napi-rs/napi-rs) as of writing, a [fork of napi-rs](https://github.com/Blam-Network/napi-rs) is used soley to disable it's camel casing of generated bindings.
+  - Holds BLF oprations which are used by the **web_private** NodeJS web server, built via napi-rs. As of writing, a [fork of napi-rs](https://github.com/Blam-Network/napi-rs) is used soley to disable it's camel casing of generated bindings.
 
 # web_private
 Provides reimplemented web-features for legacy halo games with support for Halo 3, Halo 3: ODST, and Halo: Reach. Halo 3 support is very complete, Halo: Reach support is limited to Matchmaking.

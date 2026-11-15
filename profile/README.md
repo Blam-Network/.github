@@ -31,28 +31,13 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### [api](https://github.com/Blam-Network/api)
-
-<a href="https://github.com/Blam-Network/api"><img src="https://raw.githubusercontent.com/Blam-Network/api/main/hero.jpg" alt="api"></a>
-
-A NestJS reimplementation of the web services for Halo 3, Halo 3: ODST and Halo: Reach: matchmaking, File Share, Bungie Favourites, Bungie Pro, service records, screenshots, nameplates, crash reporting and more.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/Blam-Network/api?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 ### [blf](https://github.com/Blam-Network/blf)
-
-<a href="https://github.com/Blam-Network/blf"><img src="https://raw.githubusercontent.com/Blam-Network/blf/main/hero.jpeg" alt="blf"></a>
 
 Rust crates for BLF, the chunk-based file format of Halo 3, Halo 3: ODST and Halo: Reach. Includes `blf_lib`, the `blf_cli` tool that builds Title Storage, and `blf-ts` for TypeScript.
 
 [Docs](https://blam-network.github.io/blf/) · ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![stars](https://img.shields.io/github/stars/Blam-Network/blf?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [sunrise_plugin](https://github.com/Blam-Network/sunrise_plugin)
@@ -62,6 +47,8 @@ A DashLaunch plugin that re-enables matchmaking in Xbox 360 Halo 3 by redirectin
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![stars](https://img.shields.io/github/stars/Blam-Network/sunrise_plugin?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Blam-Title-Storage](https://github.com/Blam-Network/Blam-Title-Storage)
@@ -69,6 +56,15 @@ A DashLaunch plugin that re-enables matchmaking in Xbox 360 Halo 3 by redirectin
 The configuration for Title Storage, the online files that Xbox 360 Halo games download: matchmaking playlists, MOTDs, and map and game variants. Covers Halo 3 from early Delta builds to Release, Halo 3: ODST, and Halo: Reach.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![stars](https://img.shields.io/github/stars/Blam-Network/Blam-Title-Storage?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [api](https://github.com/Blam-Network/api)
+
+A NestJS reimplementation of the web services for Halo 3, Halo 3: ODST and Halo: Reach: matchmaking, File Share, Bungie Favourites, Bungie Pro, service records, screenshots, nameplates, crash reporting and more.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![stars](https://img.shields.io/github/stars/Blam-Network/api?style=flat-square)
 
 </td>
 </tr>
